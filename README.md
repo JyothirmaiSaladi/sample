@@ -20,3 +20,15 @@
 |  Name  |  Roll Number  |  Branch  |
 |--------|---------------|----------|
 |jyothi  |545            |CSE       |
+
+# Unordered list
+  - good morning
+  - good evening
+  - good afternoon
+ 
+ # Ordered list
+    a Good morning
+    b good afternoon
+    c good evening
+      * good night
+      * good day
